@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 title = "Strata"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
