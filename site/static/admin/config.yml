@@ -1,7 +1,9 @@
 backend:
-  name: github
+  name: git-gateway
   repo: https://github.com/Taenys/strata-cms-template # Path to your Github repository
   branch: master # Branch to update (master by default)
+  netlify.configure({'nostalgic-kalam-0c9c84': nostalgic-kalam-0c9c84.netlify.com});
+  accept_roles: 
 
 publish_mode: editorial_workflow
 
